@@ -57,6 +57,10 @@ body {
   color: purple;
 }
 
+.tileImg {
+ width:100%
+}
+
 ul {
   list-style-type: none;
   list-style: none;
